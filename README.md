@@ -1,3 +1,3 @@
 # payslip
 
-Payslip tracker admin tool
+Payslip tracker admin tool information
